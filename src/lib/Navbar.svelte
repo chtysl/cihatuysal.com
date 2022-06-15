@@ -35,6 +35,6 @@
 		</ul>
 	</div>
 	<div class="navbar-end">
-		<a class="btn">İletişim</a>
+		<a href="/links" class="btn">İletişim</a>
 	</div>
 </div>
