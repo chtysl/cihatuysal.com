@@ -1,4 +1,11 @@
+<script>
+	import Hero from '$lib/Hero.svelte';
+	import Portfoyler from '$lib/Portfoyler.svelte';
+</script>
+
 <svelte:head>
-    <title>Cihat Uysal</title>
+	<title>Cihat Uysal</title>
+	<meta name="description" content="Konyaaltının bir numaralı emlakçısı." />
 </svelte:head>
-<h1 class="flex justify-center items-center h-screen">Cihat Uysal</h1>
+<Hero />
+<Portfoyler />
