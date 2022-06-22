@@ -1,3 +1,7 @@
+<script>
+	import { goto } from '$app/navigation';
+</script>
+
 <div class="navbar bg-base-100">
 	<div class="navbar-start">
 		<div class="dropdown">
@@ -25,7 +29,7 @@
 				<li><a>Blog</a></li>
 			</ul>
 		</div>
-		<a class="btn btn-ghost normal-case text-xl">Cihat Uysal</a>
+		<a on:click={() => goto('/')} class="btn btn-ghost normal-case text-xl">Cihat Uysal</a>
 	</div>
 	<div class="navbar-center hidden lg:flex">
 		<ul class="menu menu-horizontal p-0">
