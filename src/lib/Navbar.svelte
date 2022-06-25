@@ -24,21 +24,19 @@
 				tabindex="0"
 				class="menu menu-compact dropdown-content mt-3 p-2 shadow bg-base-100 rounded-box w-52"
 			>
-				<li><a>Hakkımda</a></li>
-				<li><a>Portföyler</a></li>
-				<li><a>Blog</a></li>
+				<li><a on:click={() => goto('/hakkimda')}>Hakkımda</a></li>
+				<li><a on:click={() => goto('/blog')}>Blog</a></li>
 			</ul>
 		</div>
 		<a on:click={() => goto('/')} class="btn btn-ghost normal-case text-xl">Cihat Uysal</a>
 	</div>
 	<div class="navbar-center hidden lg:flex">
 		<ul class="menu menu-horizontal p-0">
-			<li><a>Hakkımda</a></li>
-			<li><a>Portföyler</a></li>
-			<li><a>Blog</a></li>
+			<li><a on:click={(h) => goto('/hakkimda')}>Hakkımda</a></li>
+			<li><a on:click={() => goto('/blog')}>Blog</a></li>
 		</ul>
 	</div>
 	<div class="navbar-end">
-		<a href="/links" class="btn">İletişim</a>
+		<a on:click={() => goto('/links')} class="btn">İletişim</a>
 	</div>
 </div>
