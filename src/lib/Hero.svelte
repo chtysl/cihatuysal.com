@@ -8,11 +8,11 @@
 				Remax Aqua şubesinde gayrimenkul danışmanlığı yapıyorum. Konyaaltı sahili boyunca yürüyüş
 				yaparak hem hoş vakit geçirip hemde uzmanlık bölgem olan Liman, Gürsü, Altınkum, Kuşkavşağı,
 				Arapsuyu mahalelerindeki mülkler hakkında bilgi ediniyor ve uzmanlığımı her gün daha da
-				pekiştirmiş oluyorum. Aynı zamanda doğup büyüdüğüm Doyran ve Döşemealtı çevresindede uzmanlık
-				yapmaktayım. Yatırımlık arsadan, sahil kenarındaki rezidansa uzmanlığımla hertürlü
-				hizmetinizdeyim.
+				pekiştirmiş oluyorum. Aynı zamanda doğup büyüdüğüm Doyran ve Döşemealtı çevresindede
+				uzmanlık yapmaktayım. Yatırımlık arsadan, sahil kenarındaki rezidansa uzmanlığımla bi
+				telefon uzağınızdayım.
 			</p>
-			<div class=""><button class="btn btn-primary">Sosyal Medya Butonları Olacak</button></div>
+			<div class="btn btn-primary"><a href="tel:+90538-544-3131">0 (538) 544 31 31</a></div>
 		</div>
 	</div>
 </div>
