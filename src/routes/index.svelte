@@ -8,4 +8,3 @@
 	<meta name="description" content="Konyaaltının bir numaralı emlakçısı." />
 </svelte:head>
 <Hero />
-<Iletisim />
