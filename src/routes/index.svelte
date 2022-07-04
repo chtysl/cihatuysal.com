@@ -1,6 +1,5 @@
 <script>
 	import Hero from '$lib/Hero.svelte';
-	import Iletisim from '$lib/Iletisim.svelte';
 </script>
 
 <svelte:head>
