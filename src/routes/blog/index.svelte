@@ -30,34 +30,16 @@
 	});
 </script>
 
-<ul>
-	{#each dateSortedPosts as { path, metadata: { title, date } }}
-		<li>
-			<a href={path.replace('./', '/blog/').replace('.md', '').replace('.svx', '')}>{title}</a>
-			<p class="date">{new Date(date).toDateString()}</p>
-		</li>
-	{/each}
-</ul>
-
-<style>
-	p {
-		margin: 0;
-		font-size: 0.8rem;
-	}
-	li {
-		margin-bottom: 20px;
-	}
-
-	.tag {
-		margin-right: 10px;
-		text-decoration: none;
-		color: #555;
-	}
-	.tag:hover {
-		color: blue;
-	}
-	.date {
-		font-size: 0.7rem;
-		color: gray;
-	}
-</style>
+<div class="flex justify-center items-center ">
+	<ul class="">
+		{#each dateSortedPosts as { path, metadata: { title, date } }}
+			<li>
+				<a
+					class="hover:text-blue-500 text-3xl"
+					href={path.replace('./', '/blog/').replace('.md', '').replace('.svx', '')}>{title}</a
+				>
+				<p class="">{new Date(date).toDateString()}</p>
+			</li>
+		{/each}
+	</ul>
+</div>
