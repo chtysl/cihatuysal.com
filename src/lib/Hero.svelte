@@ -5,12 +5,12 @@
 			<h1 class="text-xl font-thin mb-2">Gayrimenkul Danışmanı</h1>
 			<h1 class="text-5xl font-bold">Cihat Uysal</h1>
 			<p class="py-6">
-				Remax Aqua şubesinde gayrimenkul danışmanlığı yapıyorum. Konyaaltı sahili boyunca yürüyüş
-				yaparak hem hoş vakit geçirip hemde uzmanlık bölgem olan Liman, Gürsü, Altınkum, Kuşkavşağı,
-				Arapsuyu mahalelerindeki mülkler hakkında bilgi ediniyor ve uzmanlığımı her gün daha da
-				pekiştirmiş oluyorum. Aynı zamanda doğup büyüdüğüm Doyran ve Döşemealtı çevresindede
-				uzmanlık yapmaktayım. Yatırımlık arsadan, sahil kenarındaki rezidansa uzmanlığımla bi
-				telefon uzağınızdayım.
+				Remax Aqua'da gayrimenkul danışmanlığı yapmaktayım.
+				Yeşilbayır, Altınkale, Düzlerçamı, Yalınlı ve Yeniköy'de Lüks Konut ve Arsa uzmanıyım.
+				Yatırım yapmak için hayalinizdeki arsa bende.
+				Villanızın arsası yine bende.
+				Villanızı satmanın en kısa ve zahmetsiz yolu yine bende.
+				Uzmanlığım size bir telefon kadar yakın.
 			</p>
 			<div class="grid lg:grid-cols-4 grid-cols-2 gap-4">
 				<div class="btn btn-primary px-9 py-2 h-20 w-full">
